@@ -28,3 +28,6 @@ node_modules
 *.sw?
 
 *.tsbuildinfo
+
+*storybook.log
+storybook-static
